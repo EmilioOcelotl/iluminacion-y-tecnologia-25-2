@@ -8,8 +8,8 @@ En este repositorio podrán encontrar enlaces, códigos, esquemáticos e imágen
 
 ## Sesiones 
 
-- [] Sesión 01 - 27.01.25. [Introducción, sondeo e iteración actual](./s01/s01.md)
-- [] Sesión 02 - 03.02.25. Día de asueto. 
+- [ ] Sesión 01 - 27.01.25. [Introducción, sondeo e iteración actual](./s01/s01.md)
+- [ ] Sesión 02 - 03.02.25. Día de asueto. 
 
 ## Enlaces
 
