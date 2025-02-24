@@ -9,9 +9,9 @@ En este repositorio podrán encontrar enlaces, códigos, esquemáticos e imágen
 ## Sesiones 
 
 - [x] Sesión 01 - 27.01.25. [Introducción, sondeo e iteración actual](./s01/s01.md)
-- [x] Sesión 02 - 03.02.25. Asueto
-- [x] Sesión 03 - 10.02.25. [Fundamentos de computación física: escritura y lectura (digital)](./s03/s03.md)
-- [ ] Sesión 04 - 17.02.25. [Programas con Escritura y Lectura con Arduino](./s04/s04.md)
+- [x] Sesión 02 - 10.02.25. [Fundamentos de computación física: escritura y lectura (digital)](./s02/s02.md)
+- [x] Sesión 03 - 17.02.25. [Escritura y Lectura con Arduino](./s03/s03.md)
+- [ ] Sesión 04 - 24.02.25. [Transistores y tiras 12V](./s04/s04.md)
 
 <!---
 - [ ] Sesión 05 - 24.02.25. [Luces LED: control básico y avanzando hacia Neopixels](./s05/s05.md)
